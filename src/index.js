@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <h1>Hello !</h1>
-      <h2>Пример простого клика:</h2>
+      <h2>Пример простого клика с конструктором):</h2>
       <List dataProps={dataList} />
     </div>
   );
